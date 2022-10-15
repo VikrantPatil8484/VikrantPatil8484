@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vicky
-- 👀 I’m interested in Web Development, Machine Learning, App development
+- 👀 I’m interested in Web Development and Competitive Programming.
 - 🌱 I’m currently learning Flutter App development Framework
 - 💞️ I’m looking to collaborate to work on Web development projects
 - 📫 How to reach me - https://www.linkedin.com/in/vikrantpatil8484/
