@@ -51,3 +51,5 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=VikrantPatil8484)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikrantPatil8484)
