@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Vicky
-# Hi there and welcome to my GitHub page 👋 - level 1
+- 👋 # Hey Folks!! there and welcome to my GitHub page.
 - 👀 I’m interested in Web Development and Competitive Programming.
 - 🌱 I’m currently learning Flutter App development Framework
 - 💞️ I’m looking to collaborate to work on Web development projects
