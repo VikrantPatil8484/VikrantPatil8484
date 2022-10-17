@@ -12,3 +12,4 @@ VikrantPatil8484/VikrantPatil8484 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
