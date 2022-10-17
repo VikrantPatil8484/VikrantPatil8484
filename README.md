@@ -1,6 +1,5 @@
 # Hey Folks!! there and welcome to my GitHub page.👋 
 - 👀 I’m interested in Web Development and Competitive Programming.
-- 🌱 I’m currently learning Flutter App development Framework
 - 💞️ I’m looking to collaborate to work on Web development projects
 - 📫 How to reach me - https://www.linkedin.com/in/vikrantpatil8484/
 
@@ -41,6 +40,4 @@ You can click the Preview link to take a look at your changes.
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=VikrantPatil8484)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikrantPatil8484)
+![github stats](https://github-readme-stats.vercel.app/api?username=VikrantPatil8484) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikrantPatil8484)
