@@ -22,15 +22,13 @@
 </a>
 
 
-#HACKTOBERFEST - 2022 #Open source Contributions
+## Hacktoberfest-2022 Contributions!
 [![@hack8484's Holopin board](https://holopin.me/hack8484)](https://holopin.io/@hack8484)
 
 <!---
 VikrantPatil8484/VikrantPatil8484 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
