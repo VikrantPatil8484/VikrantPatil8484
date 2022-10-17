@@ -49,3 +49,5 @@ You can click the Preview link to take a look at your changes.
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=VikrantPatil8484)
