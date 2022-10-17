@@ -4,6 +4,24 @@
 - 💞️ I’m looking to collaborate to work on Web development projects
 - 📫 How to reach me - https://www.linkedin.com/in/vikrantpatil8484/
 
+
+### You can connect Me on Social Media!
+</p>
+
+<a href="https://www.instagram.com/vicky__patil.___/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.linkedin.com/in/vikrantpatil8484/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+
 #HACKTOBERFEST - 2022 #Open source Contributions
 [![@hack8484's Holopin board](https://holopin.me/hack8484)](https://holopin.io/@hack8484)
 
@@ -24,31 +42,6 @@ You can click the Preview link to take a look at your changes.
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
-</p>
-<a href="https://www.youtube.com/channel/UCu3RVedqyL5o776xyQlbyAw">
-  <img
-    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://twitter.com/alekswritescode">
-  <img
-    alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.instagram.com/aleks.popovic/">
-  <img
-    alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.linkedin.com/in/alekspopovic/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=VikrantPatil8484)
 
