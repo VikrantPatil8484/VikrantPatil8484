@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate to work on Web development projects
 - 📫 How to reach me - https://www.linkedin.com/in/vikrantpatil8484/
 
-#HACKTOBERFEST - 2022
+#HACKTOBERFEST - 2022 #Open source Contributions
 [![@hack8484's Holopin board](https://holopin.me/hack8484)](https://holopin.io/@hack8484)
 
 <!---
