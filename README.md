@@ -1,8 +1,8 @@
-# Hello Folks!!welcome to my GitHub page.👋 
+# Hello Folks!!welcome to my GitHub page.👋  ![](https://komarev.com/ghpvc/?username=VikrantPatil8484&color=green)
 - 👀 I’m interested in Web Development and Competitive Programming.
 - 💞️ I’m looking to collaborate to work on Web development projects
 - 📫 How to reach me - https://www.linkedin.com/in/vikrantpatil8484/
-![](https://komarev.com/ghpvc/?username=VikrantPatil8484&color=green)
+
 
 
 ### You can connect Me on Social Media!
