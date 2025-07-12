@@ -1,7 +1,7 @@
 # Hello Folks!!welcome to my GitHub page.👋  ![](https://komarev.com/ghpvc/?username=VikrantPatil8484&color=green)
-- 👀 I’m interested in Web Development and Competitive Programming.
-- 💞️ I’m looking to collaborate to work on Web development projects
-- 📫 How to reach me - https://www.linkedin.com/in/vikrantpatil8484/
+- 👨‍💻 Passionate Web Developer skilled in building full-stack applications using Java, Spring Boot, and modern frontend technologies.
+- 🧠 Enthusiastic about Competitive Programming, problem-solving, and writing clean, efficient code.
+- 🤝 Open to collaboration on Java, Spring Boot Projects. Let’s connect on LinkedIn!
 
 
 
