@@ -25,4 +25,3 @@ VikrantPatil8484/VikrantPatil8484 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikrantPatil8484) ![github stats](https://github-readme-stats.vercel.app/api?username=VikrantPatil8484)
