@@ -8,12 +8,7 @@
 ### You can connect Me on Social Media!
 </p>
 
-<a href="https://www.instagram.com/vicky__patil.___/">
-  <img
-    alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-  />
-</a>
+
 <a href="https://www.linkedin.com/in/vikrantpatil8484/">
   <img
     alt="Linkedin"
